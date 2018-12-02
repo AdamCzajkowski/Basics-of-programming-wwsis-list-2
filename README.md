@@ -1,5 +1,7 @@
 # Basics-of-programming-wwsis-list-2
 ENGLISH:
+
+
 Exercise 1: Quadratic equation
         Write the program which solve quadratic equation with one unknown: ax2 + bx +c = 0.
         The program should read from standard input real coefficients a,b and c (a ≠ 0), solve delta (function delta()),
@@ -19,7 +21,9 @@ Exercise 3 - Binomial coefficient
         
 Excercise 4: Write program, which read natural number n, calculate and print n number in Lucas Sequance. Use recursive                function.
         
-   POLISH:
+POLISH:
+   
+   
 Zadanie 1: równanie kwadratowe
         Napisz program, który rozwiąże równanie kwadratowe z jedną niewiadomą: ax2 + bx + c = 0.
         Program powinien wczytać ze standardowego wejścia współczynniki rzeczywiste a, b i c (zakładamy,
