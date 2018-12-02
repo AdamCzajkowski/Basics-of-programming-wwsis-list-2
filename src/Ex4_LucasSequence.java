@@ -4,9 +4,11 @@ public class Ex4_LucasSequence {
 /*
 
     ENGLISH:
+    Exercise 4 - LucasSequence
     Write program, which read natural number n, calculate and print n number in Lucas Sequance. Use recursive function.
 
     POLISH:
+    Zadanie 4 - Ciąg Lucasa
     Napisz program, który wczyta liczbę naturalną n a następnie wyliczy i wypisze n-tą liczbę Lucasa.
     Wyliczenie liczby Lucasa zrealizuj za pomocą funkcji rekurencyjnej.
 
